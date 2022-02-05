@@ -1,0 +1,19 @@
+{
+  "name": "telerik-2021-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteewolf/telerik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteewolf/telerik/issues"
+  },
+  "homepage": "https://github.com/whiteewolf/telerik#readme"
+}
